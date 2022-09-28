@@ -1,6 +1,6 @@
 # Election Analysis
 
-A Colorado Board of Elections employee has given the following task of completing an election audit for a recent local congressional election. The purpose of the audit was to investiage which counties voted, how much they voted, and who they voted for. The data came from the election_results.csv file and the analysis was performed using Python. 
+A Colorado Board of Elections employee gave the following task of completing an election audit for a recent local congressional election. The purpose of the audit was to investiage which counties voted, how much they voted, and who they voted for. The data came from the election_results.csv file and the analysis was performed using Python. 
 
 ## Resources
 
@@ -29,4 +29,4 @@ The analysis of the election shows:
 
 ## Challenge Summary
 
-This script can be used to analyze the number of votes cast and where they were cast from for any local, state, or federal election given the proper data file has been collected. For a local elections, counties could be switched with districts to view a more precise scope of voters. For a federal election, counties could be switched with states to see a broader scope of how the nation voted. 
+This script can be used to analyze the number of votes cast and where they were cast from for any local, state, or federal election, given the proper data file has is collected. For a local election, counties could be switched with districts to view a more precise scope of voters. For a federal election, counties could be switched with states to see a broader scope of how the nation voted. 
