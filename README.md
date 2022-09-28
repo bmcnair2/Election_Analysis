@@ -1,19 +1,13 @@
 # Election Analysis
 
-A Colorado Board of Elections employee has given you the following tasks to complete the election audit of a recent local congressional election. 
-
-1. Calculate the total number of votes cast. 
-2. Get a complete list of candidates who received votes. 
-3. Calculate the total number of votes each candidate received. 
-4. Calculate the percentage of votes each candidate won. 
-5. Determine the winner of the election based on popular vote. 
+A Colorado Board of Elections employee has given the following task of completing an election audit for a recent local congressional election. The purpose of the audit was to investiage which counties voted, how much they voted, and who they voted for. The data came from the election_results.csv file and the analysis was performed using Python. 
 
 ## Resources
 
 - Data Source: election_results.csv
 - Software: Python 3.6.1, Visual Studio Code, 1.38.1
 
-## Summary
+## Results
 
 The analysis of the election shows:
 - There were 369,711 votes cast in the election. 
@@ -27,7 +21,12 @@ The analysis of the election shows:
   - Raymon Anthony Doane received 3.1% of the vote and 11,606 number of votes. 
 - The winner of the election was:
   - Candidate Diana DeGette, who received 73.8% of the vote and 272,892 number of votes. 
-
-## Challenge Overview
+- The votes by precinct were:
+  - Jefferson County cast 38,855 votes, or 10.5% of the total votes. 
+  - Denver County cast 306,055 votes, or 82.8% of the total votes. 
+  - Arapahoe County cast 24,801 votes, or 6.7% of the total votes
+- Denver County had the largest number of votes with 82.8% to the total votes.  
 
 ## Challenge Summary
+
+This script can be used to analyze the number of votes cast and where they were cast from for any local, state, or federal election given the proper data file has been collected. For a local elections, counties could be switched with districts to view a more precise scope of voters. For a federal election, counties could be switched with states to see a broader scope of how the nation voted. 
