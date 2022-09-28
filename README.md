@@ -29,4 +29,4 @@ The analysis of the election shows:
 
 ## Challenge Summary
 
-This script can be used to analyze the number of votes cast and where they were cast from for any local, state, or federal election, given the proper data file has is collected. For a local election, counties could be switched with districts to view a more precise scope of voters. For a federal election, counties could be switched with states to see a broader scope of how the nation voted. 
+This script can be used to analyze the number of votes cast and where they were cast from for any local, state, or federal election, given the proper data file is collected. For a local election, counties could be switched with districts to view a more precise scope of voters. For a federal election, counties could be switched with states to see a broader scope of how the nation voted. 
